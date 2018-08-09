@@ -1,11 +1,11 @@
 # 个人笔记
 
-## git-命令
-## 新建分支
+### git-命令
+<b>新建分支</b>
 git branch 分支名
-## 切换分支
+<b>切换分支</b>
 git checkout 分支名
-## 合并分支
+<b>合并分支</b>
 git merge
-## 删除分支
+<b>删除分支</b>
 git branch -d 分支名
