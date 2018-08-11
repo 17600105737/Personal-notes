@@ -9,3 +9,5 @@ git checkout 分支名<br>
 git merge<br>
 <b>-删除分支</b><br>
 git branch -d 分支名<br>
+<b>-新建分支并切换</b><br>
+git checkout -b 分支名
